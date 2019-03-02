@@ -1,4 +1,4 @@
-module github.com/como65416/excel-cmd-tool
+module excel-cmd-tool
 
 go 1.12
 
